@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Editor / IDE configuration (machine-specific, not part of the project)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
